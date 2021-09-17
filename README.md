@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DirtMonkey
 - 👀 I’m interested in java,minecraft,python... and more!
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on minecraft java clients
+- 💞️ I’m looking to collaborate on minecraft clients and java
 - 📫 my discord DirtMonkey#3982
 
 <!---
